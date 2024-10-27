@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozcelikmirzabugra&label=Profile%20views&color=0e75b6&style=flat" alt="ozcelikmirzabugra" /> </p>
 
-- 🔭 I'm currently working on **connecting the Frontend with the Backend API**
+- 🔭 I'm currently working on **React library.**
 
 - 🌱 I’m currently learning **React.js**
 
