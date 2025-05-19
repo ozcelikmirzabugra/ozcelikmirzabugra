@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🤝 I’m looking for help with **Frontend Developments**
+- 🤝 I’m looking for help with **Fullstack Developments**
 
 - 👨‍💻 All of my projects are available at [https://mirz.info](https://mirz.info)
 
